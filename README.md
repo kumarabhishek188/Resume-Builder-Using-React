@@ -1,6 +1,6 @@
 # Resume Builder - React Application
 
-This project is a simple Resume Builder developed using React. The application allows users to fill out their personal information, skills, experience, and education to dynamically generate a resume.
+This project is a Resume Builder developed using React. The application allows users to fill out their personal information, skills, experience, and education to dynamically generate a resume.
 
 ## Features
 
@@ -23,5 +23,10 @@ Follow these steps to get the project up and running locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/resume-builder-react.git
+git clone https://github.com/kumarabhishek188/Resume-Builder-Using-React.git
 cd resume-builder-react
+
+## 2. Demo Link
+
+You can view a live demo of the Resume Builder here: [`http://https://resumebuilder01.netlify.app/`]
+
