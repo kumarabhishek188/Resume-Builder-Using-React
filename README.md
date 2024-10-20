@@ -25,8 +25,9 @@ Follow these steps to get the project up and running locally:
 ```bash
 git clone https://github.com/kumarabhishek188/Resume-Builder-Using-React.git
 cd resume-builder-react
+```
 
-## 2. Demo Link
+### 2. Demo Link
 
 You can view a live demo of the Resume Builder here: [`https://resumebuilder01.netlify.app/`]
 
