@@ -28,5 +28,5 @@ cd resume-builder-react
 
 ## 2. Demo Link
 
-You can view a live demo of the Resume Builder here: [`http://https://resumebuilder01.netlify.app/`]
+You can view a live demo of the Resume Builder here: [`https://resumebuilder01.netlify.app/`]
 
